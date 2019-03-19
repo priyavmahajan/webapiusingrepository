@@ -1,0 +1,15 @@
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\Helper.dll.config
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\Helper.dll
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\Helper.pdb
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\DAL.dll
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\EntityFramework.dll
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\DAL.pdb
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\DAL.dll.config
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\EntityFramework.xml
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\obj\Debug\Helper.csproj.CopyComplete
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\obj\Debug\Helper.dll
+E:\Projectapi\TrainingAndMeetingProgramApplication\Helper\obj\Debug\Helper.pdb
